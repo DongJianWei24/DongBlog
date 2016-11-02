@@ -2,262 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08ffe690-d1e5-4b09-b397-0c18b6c04d80" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/font-awesome/img/kb.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CNAME" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/comments.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/header-default.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/header-post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/menu-search.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/scripts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/share.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/svg-icons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/tree-posts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/compress.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/minimal.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-02-10-sharding.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-03-10-space.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-10-31-test.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2016/10/31/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/CNAME" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/aboutme/bye.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/aboutme/dino.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/blog-image.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/blog-porque/blog-porque.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/blog-porque/dog-escutando.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/blog-porque/dog-esperando.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/blog-porque/dog-study-cell.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/cover.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/cover2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/android-chrome-144x144.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/android-chrome-192x192.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/android-chrome-36x36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/android-chrome-48x48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/android-chrome-72x72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/android-chrome-96x96.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/apple-touch-icon-114x114.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/apple-touch-icon-120x120.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/apple-touch-icon-144x144.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/apple-touch-icon-152x152.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/apple-touch-icon-180x180.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/apple-touch-icon-57x57.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/apple-touch-icon-60x60.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/apple-touch-icon-72x72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/apple-touch-icon-76x76.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/apple-touch-icon-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/apple-touch-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/browserconfig.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/favicon-16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/favicon-194x194.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/favicon-32x32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/favicon-96x96.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/manifest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/mstile-144x144.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/mstile-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/mstile-310x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/mstile-310x310.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/mstile-70x70.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/favicons/safari-pinned-tab.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/garbage-collector/simpson-game.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/garbage-collector/simpson-lixeira.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/group-aggregate/dog-mordida.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/group-aggregate/elements-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/group-aggregate/hc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/instanciacao-com-js/instanciacao-com-js.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/mongodb-post.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/mongodb-update/digitando-rapido.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/mongodb-update/i-have-no-idea.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/mongodb123/bye.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/mongodb123/documento-relacao.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/mongodb123/dog-notebook.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/mongodb123/mean.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/o-que-e-meanstack/dog-assustado.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/o-que-e-meanstack/o-que-e-meanstack.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/outros/despair-alone-being-alone-archetype-archetypes.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/outros/question.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/phpoo/phpoo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/profile.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/relacionamento-explain-replicas/relacao-gato.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/relacionamento-explain-replicas/replica-set-read-write-operations-primary.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/sharding-gerenciamento-usuarios/ajudando-carregar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/sharding-gerenciamento-usuarios/carrega-sozinho.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/sharding-gerenciamento-usuarios/daca-animada.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/sharding-gerenciamento-usuarios/happy-scooby.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/sharding-gerenciamento-usuarios/servers.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/github is awesome/2016/03/12/space.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/gulpfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/jekyll is awesome/2016/09/12/sharding.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/posts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/posts/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/screenshot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/search.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/series/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/sharding/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/sitemap.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/space/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/src/img/blog-author.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/src/img/blog-image.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/src/img/icons/apple-touch-icon-114x114.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/src/img/icons/apple-touch-icon-120x120.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/src/img/icons/apple-touch-icon-144x144.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/src/img/icons/apple-touch-icon-152x152.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/src/img/icons/apple-touch-icon-57x57.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/src/img/icons/apple-touch-icon-60x60.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/src/img/icons/apple-touch-icon-72x72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/src/img/icons/apple-touch-icon-76x76.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/src/img/icons/apple-touch-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/src/img/icons/favicon-16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/src/img/icons/favicon-32x32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/src/img/icons/favicon-64x64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/src/img/icons/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/src/img/icons/largetile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/src/img/icons/mediumtile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/src/img/icons/smalltile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/src/img/icons/widetile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/src/js/azepto.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/src/js/simpleJekyllSearch.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/src/js/zmain.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/src/styl/jeet/index.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/src/styl/main.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tags/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/aboutme/bye.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/aboutme/dino.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/blog-image.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/blog-porque/blog-porque.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/blog-porque/dog-escutando.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/blog-porque/dog-esperando.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/blog-porque/dog-study-cell.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/cover.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/cover2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/android-chrome-144x144.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/android-chrome-192x192.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/android-chrome-36x36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/android-chrome-48x48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/android-chrome-72x72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/android-chrome-96x96.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/apple-touch-icon-114x114.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/apple-touch-icon-120x120.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/apple-touch-icon-144x144.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/apple-touch-icon-152x152.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/apple-touch-icon-180x180.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/apple-touch-icon-57x57.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/apple-touch-icon-60x60.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/apple-touch-icon-72x72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/apple-touch-icon-76x76.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/apple-touch-icon-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/apple-touch-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/browserconfig.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/favicon-16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/favicon-194x194.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/favicon-32x32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/favicon-96x96.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/manifest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/mstile-144x144.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/mstile-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/mstile-310x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/mstile-310x310.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/mstile-70x70.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicons/safari-pinned-tab.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/garbage-collector/simpson-game.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/garbage-collector/simpson-lixeira.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/group-aggregate/dog-mordida.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/group-aggregate/elements-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/group-aggregate/hc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/instanciacao-com-js/instanciacao-com-js.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/mongodb-post.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/mongodb-update/digitando-rapido.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/mongodb-update/i-have-no-idea.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/mongodb123/bye.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/mongodb123/documento-relacao.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/mongodb123/dog-notebook.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/mongodb123/mean.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/o-que-e-meanstack/dog-assustado.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/o-que-e-meanstack/o-que-e-meanstack.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/outros/despair-alone-being-alone-archetype-archetypes.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/outros/question.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/phpoo/phpoo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/profile.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/relacionamento-explain-replicas/relacao-gato.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/relacionamento-explain-replicas/replica-set-read-write-operations-primary.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/sharding-gerenciamento-usuarios/ajudando-carregar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/sharding-gerenciamento-usuarios/carrega-sozinho.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/sharding-gerenciamento-usuarios/daca-animada.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/sharding-gerenciamento-usuarios/happy-scooby.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/sharding-gerenciamento-usuarios/servers.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/posts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/search.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/series.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sitemap.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/blog-author.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/blog-image.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/icons/apple-touch-icon-114x114.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/icons/apple-touch-icon-120x120.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/icons/apple-touch-icon-144x144.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/icons/apple-touch-icon-152x152.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/icons/apple-touch-icon-57x57.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/icons/apple-touch-icon-60x60.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/icons/apple-touch-icon-72x72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/icons/apple-touch-icon-76x76.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/icons/apple-touch-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/icons/favicon-16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/icons/favicon-32x32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/icons/favicon-64x64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/icons/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/icons/largetile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/icons/mediumtile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/icons/smalltile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/icons/widetile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/azepto.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/simpleJekyllSearch.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/zmain.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/styl/_animations.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/styl/_author.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/styl/_elements.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/styl/_footer.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/styl/_header.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/styl/_hightlight.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/styl/_icons.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/styl/_menu.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/styl/_post.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/styl/_postlist.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/styl/_search.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/styl/_typo.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/styl/_variables.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/styl/jeet/_functions.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/styl/jeet/_grid.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/styl/jeet/_settings.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/styl/jeet/index.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/styl/main.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tags.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="$PROJECT_DIR$/_layouts/page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/LICENSE" afterPath="$PROJECT_DIR$/_site/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/README.md" afterPath="$PROJECT_DIR$/_site/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about/index.html" afterPath="$PROJECT_DIR$/_site/about/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/feed.xml" afterPath="$PROJECT_DIR$/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="dong.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -279,21 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.2571428">
-              <caret line="6" column="53" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/2016/06/07/whats-jekyll/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-8.607142">
-              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+              <caret line="16" column="75" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
               <folding />
             </state>
           </provider>
@@ -303,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/_site/2016/06/08/example-content-copy-10/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-8.928572">
-              <caret line="16" column="52" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="87" />
+              <caret line="16" column="52" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -312,18 +47,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.8571428">
+            <state vertical-scroll-proportion="-10.857142">
               <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -333,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.18395574">
-              <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -541,7 +266,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.76153845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31385767" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18277153" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -586,20 +311,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -661,26 +372,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.8571428">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/style.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.2805755">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/2016/06/08/example-content-copy-10/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.928572">
-          <caret line="16" column="52" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="87" />
           <folding />
         </state>
       </provider>
@@ -707,10 +402,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/2016/06/07/whats-jekyll/index.html">
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.607142">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -725,8 +428,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.2571428">
+        <state vertical-scroll-proportion="0.15921788">
           <caret line="6" column="53" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/2016/06/07/whats-jekyll/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.607142">
+          <caret line="16" column="75" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/2016/06/08/example-content-copy-10/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.928572">
+          <caret line="16" column="52" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.857142">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -734,7 +461,7 @@
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.18395574">
-          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
           <folding />
         </state>
       </provider>
