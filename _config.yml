@@ -1,0 +1,50 @@
+name:               "Dong"
+description:        "Somebody has to win, so why not be me?"
+
+url:                ""
+author:             "dong"
+email:              "932823749@qq.com"
+gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
+twitter:            ""
+github:             "DongJianWei24"
+pinterest:          ""
+linkedin:           ""
+facebook:           ""
+
+disqus_shortname:   "thinker3197"
+
+background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
+
+paginate:           5
+paginate_path:      "/page:num/"
+
+baseurl:            ""
+permalink:          /:year/:month/:day/:title/
+
+markdown:           kramdown
+
+nav:
+  - name:           "博客"
+    href:           "/about"
+  - name:           "简历"
+    href:           "/releases"
+
+sass:
+  style:            :compressed
+
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+gems:
+  - jekyll-paginate
