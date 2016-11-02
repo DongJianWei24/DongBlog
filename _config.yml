@@ -1,50 +1,50 @@
-# Site settings
-title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
-baseurl: "" # the subpath of your site
-url: "https://dongjianwei24.github.io/dong.github.io/"
+name:               "Dong"
+description:        "Somebody has to win, so why not be me?"
 
-# User settings
-username: lorem ipsum
-user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-disqus_username: loremipsum
+url:                ""
+author:             "dong"
+email:              "932823749@qq.com"
+gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
+twitter:            ""
+github:             "DongJianWei24"
+pinterest:          ""
+linkedin:           ""
+facebook:           ""
 
-# Build settings
-markdown: kramdown
-highlighter: rouge
-permalink: /:title/
+disqus_shortname:   "thinker3197"
 
+background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
 
-# html minify
-compress_html:
-  clippings: all
-  comments: all
-  endings: []
-  profile: false
+paginate:           5
+paginate_path:      "/page:num/"
 
-# Links to include in menu navigation
-links:
-  - title: home
-    url: /
-  - title: my posts
-    url: /posts
-  - title: series
-    url: /series
-  - title: tags
-    url: /tags
-  - title: about me
-    url: /about
-# projects in header index
-projects:
-  - name: asciilang
-    url: https://github.com/victorvoid/asciilang
-  - name: vim-frontend
-    url: https://github.com/victorvoid/vim-frontend
-  - name: generator-capybara
-    url: https://github.com/victorvoid/generator-capybara 
-# exclude my node related stuff
-exclude: ['package.json', 'src', 'node_modules']
+baseurl:            ""
+permalink:          /:year/:month/:day/:title/
+
+markdown:           kramdown
+
+nav:
+  - name:           "博客"
+    href:           "/about"
+  - name:           "简历"
+    href:           "/releases"
+
+sass:
+  style:            :compressed
+
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+gems:
+  - jekyll-paginate
