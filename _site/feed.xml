@@ -6,6 +6,84 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>phpstorm</title>
+        <description>&lt;h2 id=&quot;section&quot;&gt;准备工作&lt;/h2&gt;
+
+&lt;p&gt;默认你是ubuntu系统&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;步骤开始&lt;/h2&gt;
+&lt;p&gt;首先更新源&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;sudo apt-get update&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;在这里写一下phpstorm 10的安装&lt;/p&gt;
+
+&lt;p&gt;1.首先在&lt;strong&gt;&lt;a href=&quot;https://www.jetbrains.com/phpstorm/download/#section=linux-version&quot;&gt;Jetbrains官网&lt;/a&gt;&lt;/strong&gt;下载PhpStorm的tar包．如果你偏爱命令行，那么可以使用wget来下载tar包&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/resources/font-awesome/img/Lnmp/phpstorm.png&quot; alt=&quot;示例&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;2.安装jdk(phpstorm必须要jdk环境才能运行)&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1.下载jdk   
+  
+    http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+  
+2.解压压缩包
+  
+    sduo tar zxvf  文件名
+  
+    修改目录名称
+  
+    sudo mv   源目录名/   新目录名/   
+  
+3.配置环境变量
+  
+    创建文件/etc/profile.d/development.sh，将下面的内容复制到该文件。
+   
+    export JAVA_HOME=/usr/local/development/jdk1.7.0_04  
+    export JRE_HOME=$JAVA_HOME/jre  
+    export CLASSPATH=.:$JAVA_HOME/lib:$JRE_HOME/lib:$CLASSPATH  
+    export PATH=$JAVA_HOME/bin:$JRE_HOME/bin:$PATH  
+   
+4.重启电脑  使用命令测试 
+    java  -version 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;3.安装:打开一个终端窗口．将工作目录切换到下载目录，然后解压下载好的tar.gz文件．&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;tar xvf PhpStorm-2016.1.tar.gz&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;在当前的工作目录下会生成一个新的目录，PhpStorm-145.258.2．为了保持系统整洁有序，我们把这个目录移到/opt/目录下．&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;sudo mv PhpStorm-145.258.2/ /opt/phpstorm/&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;现在，创建一个软链接．&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;sudo ln -s /opt/phpstorm/bin/phpstorm.sh /usr/local/bin/phpstorm&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;然后，在终端里输入phpstorm命令来启动PhpStorm程序．&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;sudo ./PhpStorm-2016.2.1/bin/PhpStorm.sh&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;到此为止&lt;/p&gt;
+</description>
+				<pubDate>Thu, 03 Nov 2016 00:00:00 +0800</pubDate>
+				<link>/2016/11/03/phpstorm/</link>
+				<guid isPermaLink="true">/2016/11/03/phpstorm/</guid>
+			</item>
+		
+			<item>
 				<title>LNMP</title>
         <description>&lt;h2 id=&quot;section&quot;&gt;准备工作&lt;/h2&gt;
 
@@ -108,63 +186,6 @@ php7.0-enchant    php7.0-mcrypt     php7.0-soap
 &lt;/div&gt;
 
 &lt;p&gt;如果扩展安装完就可以进行开发了&lt;/p&gt;
-
-&lt;p&gt;在这里也写一下phpstorm 10的安装&lt;/p&gt;
-
-&lt;p&gt;1.首先在&lt;strong&gt;&lt;a href=&quot;https://www.jetbrains.com/phpstorm/download/#section=linux-version&quot;&gt;Jetbrains官网&lt;/a&gt;&lt;/strong&gt;下载PhpStorm的tar包．如果你偏爱命令行，那么可以使用wget来下载tar包&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/resources/font-awesome/img/Lnmp/phpstorm.png&quot; alt=&quot;示例&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;2.安装jdk(phpstorm必须要jdk环境才能运行)&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1.下载jdk   
-  
-    http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
-  
-2.解压压缩包
-  
-    sduo tar zxvf  文件名
-  
-    修改目录名称
-  
-    sudo mv   源目录名/   新目录名/   
-  
-3.配置环境变量
-  
-    创建文件/etc/profile.d/development.sh，将下面的内容复制到该文件。
-   
-    export JAVA_HOME=/usr/local/development/jdk1.7.0_04  
-    export JRE_HOME=$JAVA_HOME/jre  
-    export CLASSPATH=.:$JAVA_HOME/lib:$JRE_HOME/lib:$CLASSPATH  
-    export PATH=$JAVA_HOME/bin:$JRE_HOME/bin:$PATH  
-   
-4.重启电脑  使用命令 java  -version 测试
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;3.安装:打开一个终端窗口．将工作目录切换到下载目录，然后解压下载好的tar.gz文件．&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;tar xvf PhpStorm-2016.1.tar.gz&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;在当前的工作目录下会生成一个新的目录，PhpStorm-145.258.2．为了保持系统整洁有序，我们把这个目录移到/opt/目录下．&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;sudo mv PhpStorm-145.258.2/ /opt/phpstorm/&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;现在，创建一个软链接．&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;sudo ln -s /opt/phpstorm/bin/phpstorm.sh /usr/local/bin/phpstorm&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;然后，在终端里输入phpstorm命令来启动PhpStorm程序．&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;sudo ./PhpStorm-2016.2.1/bin/PhpStorm.sh&lt;/p&gt;
-&lt;/blockquote&gt;
 
 &lt;p&gt;到此为止&lt;/p&gt;
 </description>
