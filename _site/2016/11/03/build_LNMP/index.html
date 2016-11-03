@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>LNMP</title>
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600">
+    <link href="/resources/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/style.css">
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for Dong" href="/feed.xml" />
+</head>
+
+
+<body class="preload">
+    <div class="top"></div>
+    <div class="profile" style="background-image: url(/resources/font-awesome/img/bg.jpg);">
+        <img src="/resources/font-awesome/img/kb.jpg" class="img-circle" />
+        <h3>Dong</h3>
+        <p>Somebody has to win, so why not be me?</p>
+        <ul class="social">
+            
+            <a type="button" href="http://github.com/DongJianWei24">
+                <i class="fa fa-github"></i>
+            </a>
+             
+            <a type="button" href="http://twitter.com/DongJianWei24">
+                <i class="fa fa-twitter"></i>
+            </a>
+             
+            <a type="button" href="http://linkedin.com/in/">
+                <i class="fa fa-linkedin"></i>
+            </a>
+             
+            <a type="button" href="http://pinterest.com/">
+                <i class="fa fa-pinterest"></i>
+            </a>
+             
+            <a type="button" href="http://facebook.com/">
+                <i class="fa fa-facebook"></i>
+            </a>
+            
+        </ul>
+    </div>
+    <div class="posts">
+        <header class="head">
+  <h1 class="head-title">
+    <a href="/">Dong</a>
+  </h1>
+</header>
+
+
+<div class="content post">
+  <h1 class="post-title">LNMP</h1>
+  <div class="post-date">
+    <time>03 Nov 2016</time>
+  </div>
+  <h2 id="section">准备工作</h2>
+
+<p>默认你已安装了ubuntu 16.04系统</p>
+
+<blockquote>
+  <p>LNMP (PHP7.0+Mysql5.7+Nginx1.10)</p>
+</blockquote>
+
+<h2 id="section-1">步骤开始</h2>
+<p>首先更新源</p>
+
+<blockquote>
+  <p>sudo apt-get update</p>
+</blockquote>
+
+<p><strong>1.安装mysql</strong></p>
+
+<blockquote>
+  <p>sudo apt-get install mysql-server</p>
+</blockquote>
+
+<p><strong>2.安装nginx</strong></p>
+
+<blockquote>
+  <p>sudo apt-get install nginx</p>
+</blockquote>
+
+<p>安装好nginx，打开浏览器输入 <a href="http://localhost">localhost</a>    看到 Welcome to nginx！ 说明安装成功了。</p>
+
+<p>修改nginx配置站点</p>
+
+<blockquote>
+  <p>sudo vim /etc/nginx/sites-available/default</p>
+</blockquote>
+
+<p>如果没有安装vim,请先安装(已安装请忽略)</p>
+
+<blockquote>
+  <p>sudo apt-get install vim</p>
+</blockquote>
+
+<p>下图为参考
+<img src="/resources/font-awesome/img/Lnmp/nginx.png" alt="示例" />
+listen 设置网站访问端口号</p>
+
+<p>root 后面的路径表示监听的站点-&gt;就是网站路径</p>
+
+<p>server_name 设置访问网站域名或者ip</p>
+
+<p>把fastcgi_pass和include snippets/fastcgi-php.conf;前面的#去掉</p>
+
+<p>如果想配置多站点,就复制server{  }多一份粘贴就好</p>
+
+<p>配置完重新启动nginx:</p>
+
+<blockquote>
+  <p>sudo service nginx reload</p>
+</blockquote>
+
+<p><strong>3.安装php7.0-fpm</strong></p>
+
+<blockquote>
+  <p>sudo apt-get install php7.0-fpm</p>
+</blockquote>
+
+<p>安装php 7.0  安装其他版本也是一样的。</p>
+
+<p>在刚配置完的站点目录下，新建个index.php测试下看看</p>
+
+<blockquote>
+  <p>phpinfo();</p>
+</blockquote>
+
+<p><img src="/resources/font-awesome/img/Lnmp/phpinfo.png" alt="示例" /></p>
+
+<p>看到此图说明已近配置成功了，下面还需要安装一些常用的扩展库</p>
+
+<blockquote>
+  <p>sudo apt install php-mysql php-curl php-mcrypt php-gd php-memcached php-redis</p>
+</blockquote>
+
+<p>此方式安装会同时在多个版本下面分别安装还有一些库</p>
+
+<blockquote>
+  <p>sudo apt install php7.0  按tab 可以显示如下一些库</p>
+</blockquote>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>php7.0            php7.0-fpm        php7.0-mysql      php7.0-sqlite3
+php7.0-bcmath     php7.0-gd         php7.0-odbc       php7.0-sybase
+php7.0-bz2        php7.0-gmp        php7.0-opcache    php7.0-tidy
+php7.0-cgi        php7.0-imap       php7.0-pgsql      php7.0-xml
+php7.0-cli        php7.0-interbase  php7.0-phpdbg     php7.0-xmlrpc
+php7.0-common     php7.0-intl       php7.0-pspell     php7.0-xsl
+php7.0-curl       php7.0-json       php7.0-readline   php7.0-zip
+php7.0-dba        php7.0-ldap       php7.0-recode    
+php7.0-dev        php7.0-mbstring   php7.0-snmp      
+php7.0-enchant    php7.0-mcrypt     php7.0-soap
+</code></pre>
+</div>
+
+<p>如果扩展安装完就可以进行开发了</p>
+
+<p>在这里也写一下phpstorm 10的安装</p>
+
+<p>1.首先在<strong><a href="https://www.jetbrains.com/phpstorm/download/#section=linux-version">Jetbrains官网</a></strong>下载PhpStorm的tar包．如果你偏爱命令行，那么可以使用wget来下载tar包</p>
+
+<p><img src="/resources/font-awesome/img/Lnmp/phpstorm.png" alt="示例" /></p>
+
+<p>2.安装jdk(phpstorm必须要jdk环境才能运行)</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>1.下载jdk   
+  
+    http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+  
+2.解压压缩包
+  
+    sduo tar zxvf  文件名
+  
+    修改目录名称
+  
+    sudo mv   源目录名/   新目录名/   
+  
+3.配置环境变量
+  
+    创建文件/etc/profile.d/development.sh，将下面的内容复制到该文件。
+   
+    export JAVA_HOME=/usr/local/development/jdk1.7.0_04  
+    export JRE_HOME=$JAVA_HOME/jre  
+    export CLASSPATH=.:$JAVA_HOME/lib:$JRE_HOME/lib:$CLASSPATH  
+    export PATH=$JAVA_HOME/bin:$JRE_HOME/bin:$PATH  
+   
+4.重启电脑  使用命令 java  -version 测试
+</code></pre>
+</div>
+
+<p>3.安装:打开一个终端窗口．将工作目录切换到下载目录，然后解压下载好的tar.gz文件．</p>
+
+<blockquote>
+  <p>tar xvf PhpStorm-2016.1.tar.gz</p>
+</blockquote>
+
+<p>在当前的工作目录下会生成一个新的目录，PhpStorm-145.258.2．为了保持系统整洁有序，我们把这个目录移到/opt/目录下．</p>
+
+<blockquote>
+  <p>sudo mv PhpStorm-145.258.2/ /opt/phpstorm/</p>
+</blockquote>
+
+<p>现在，创建一个软链接．</p>
+
+<blockquote>
+  <p>sudo ln -s /opt/phpstorm/bin/phpstorm.sh /usr/local/bin/phpstorm</p>
+</blockquote>
+
+<p>然后，在终端里输入phpstorm命令来启动PhpStorm程序．</p>
+
+<blockquote>
+  <p>sudo ./PhpStorm-2016.2.1/bin/PhpStorm.sh</p>
+</blockquote>
+
+<p>到此为止</p>
+
+</div>
+
+  
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+var disqus_shortname = 'thinker3197';
+var disqus_identifier = '/2016/11/03/build_LNMP/';
+
+(function() {
+    var dsq = document.createElement('script');
+    dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+
+
+    </div>
+</body>
+<script type="text/javascript">
+    window.onload = function(){
+        document.getElementsByTagName("BODY")[0].classList.remove("preload");
+    }
+</script>
+</html>

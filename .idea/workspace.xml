@@ -2,22 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a292c20-54d0-4705-ab0c-21a398fc3d37" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/06/07/whats-jekyll/index.html" afterPath="$PROJECT_DIR$/_site/2016/06/07/whats-jekyll/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-10/index.html" afterPath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-10/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-11/index.html" afterPath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-11/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-2/index.html" afterPath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-3/index.html" afterPath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-4/index.html" afterPath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-4/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-5/index.html" afterPath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-5/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-6/index.html" afterPath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-6/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-7/index.html" afterPath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-7/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-8/index.html" afterPath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-8/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-9/index.html" afterPath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-9/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy/index.html" afterPath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/06/08/example-content/index.html" afterPath="$PROJECT_DIR$/_site/2016/06/08/example-content/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/404.html" afterPath="$PROJECT_DIR$/_site/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about/index.html" afterPath="$PROJECT_DIR$/_site/about/index.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-06-08-example-content copy 10.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-06-08-example-content copy 11.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-06-08-example-content copy 2.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-06-08-example-content copy 4.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-06-08-example-content copy 5.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-06-08-example-content copy 6.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-06-08-example-content copy 7.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-06-08-example-content copy 8.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-06-08-example-content copy 9.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-06-08-example-content copy.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-06-08-example-content.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-10/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-11/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-3/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-4/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-5/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-6/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-7/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-8/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy-9/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2016/06/08/example-content-copy/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2016/06/08/example-content/index.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2016-06-07-whats-jekyll.md" afterPath="$PROJECT_DIR$/_posts/2016-11-01-whats-jekyll.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2016-06-08-example-content copy 3.md" afterPath="$PROJECT_DIR$/_posts/2016-11-03-build_LNMP.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_site/2016/06/07/whats-jekyll/index.html" afterPath="$PROJECT_DIR$/_site/2016/11/01/whats-jekyll/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page2/index.html" afterPath="$PROJECT_DIR$/_site/page2/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page3/index.html" afterPath="$PROJECT_DIR$/_site/page3/index.html" />
@@ -49,22 +61,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.379494">
-              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="44" column="2" selection-start-line="44" selection-start-column="2" selection-end-line="44" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-06-08-example-content.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2016-06-08-example-content.md">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/about/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="4.714286">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2016-11-03-build_LNMP.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-11-03-build_LNMP.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.08201439">
-                <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+              <first_editor vertical-scroll-proportion="0.8906475">
+                <caret line="137" column="4" selection-start-line="137" selection-start-column="4" selection-end-line="137" selection-end-column="4" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -85,6 +107,10 @@
       <list>
         <option value="$PROJECT_DIR$/_posts/2016-06-07-whats-jekyll.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_site/about/index.html" />
+        <option value="$PROJECT_DIR$/_posts/2016-06-08-example-content.md" />
+        <option value="$PROJECT_DIR$/_site/index.html" />
+        <option value="$PROJECT_DIR$/_posts/2016-11-03-build_LNMP.md" />
       </list>
     </option>
   </component>
@@ -161,28 +187,6 @@
               <option name="myItemId" value="font-awesome" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dong.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dong.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="font-awesome" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -195,20 +199,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="_posts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dong.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dong.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_layouts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -309,39 +299,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-06-07-whats-jekyll.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2016-11-01-whats-jekyll.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor vertical-scroll-proportion="0.02733813">
             <caret line="1" column="20" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="20" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-06-08-example-content copy 4.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="3.6359713">
-            <caret line="133" column="3" selection-start-line="133" selection-start-column="3" selection-end-line="133" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-06-08-example-content.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.08201439">
-            <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
             <folding />
           </first_editor>
           <second_editor />
@@ -359,12 +321,112 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/_site/404.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.379494">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.31673583">
+          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/feed.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.7053943">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.18908122">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/about/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.714286">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="2" selection-start-line="44" selection-start-column="2" selection-end-line="44" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.892858">
+          <caret line="72" column="31" selection-start-line="72" selection-start-column="31" selection-end-line="72" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.821429">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-11-03-build_LNMP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.8906475">
+            <caret line="137" column="4" selection-start-line="137" selection-start-column="4" selection-end-line="137" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
