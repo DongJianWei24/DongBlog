@@ -18,11 +18,11 @@ author:       "Dong"
 
 >sudo apt-get update
 
-**1.安装mysql**
+###**1.安装mysql**
 
 >sudo apt-get install mysql-server
 
-**2.安装nginx**
+###**2.安装nginx**
 
 >sudo apt-get install nginx   
 
@@ -53,7 +53,7 @@ server_name 设置访问网站域名或者ip
 >sudo service nginx reload
 
 
-**3.安装php7.0-fpm**
+###**3.安装php7.0-fpm**
 
 >sudo apt-get install php7.0-fpm 
 
