@@ -18,12 +18,12 @@ author:       "Dong"
 ![示例](/resources/font-awesome/img/github-blog/creat_repository.png)
 ![示例](/resources/font-awesome/img/github-blog/fill_detail.png)
 
-###2. 进入项目设置页面, 因为这个项目就是专门的放页面的,所以master分支即可. 如果是你的某个仓库的页面,你需要设置到 gh-pages 分支中.
+###2. 进入项目设置页面, 因为这个项目就是专门的放页面的,所以master分支即可.
 ![示例](/resources/font-awesome/img/github-blog/toSetting.png)
 ![示例](/resources/font-awesome/img/github-blog/setting_detail.png)
 ![示例](/resources/font-awesome/img/github-blog/setting1.png)
 
-###3.之后我们就要在本地部署jekyll， 首先你需要ruby来使用本地jekyll。安装ruby。  
+###3.之后我们就要在本地部署jekyll， 首先你需要安装ruby来使用本地jekyll。  
    可以直接使用两个命令完成Ruby的安装。
    
    >sudo apt-get update  

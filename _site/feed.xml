@@ -24,12 +24,12 @@
 &lt;p&gt;&lt;img src=&quot;/resources/font-awesome/img/github-blog/creat_repository.png&quot; alt=&quot;示例&quot; /&gt;
 &lt;img src=&quot;/resources/font-awesome/img/github-blog/fill_detail.png&quot; alt=&quot;示例&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;master--gh-pages-&quot;&gt;2. 进入项目设置页面, 因为这个项目就是专门的放页面的,所以master分支即可. 如果是你的某个仓库的页面,你需要设置到 gh-pages 分支中.&lt;/h3&gt;
+&lt;h3 id=&quot;master&quot;&gt;2. 进入项目设置页面, 因为这个项目就是专门的放页面的,所以master分支即可.&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;/resources/font-awesome/img/github-blog/toSetting.png&quot; alt=&quot;示例&quot; /&gt;
 &lt;img src=&quot;/resources/font-awesome/img/github-blog/setting_detail.png&quot; alt=&quot;示例&quot; /&gt;
 &lt;img src=&quot;/resources/font-awesome/img/github-blog/setting1.png&quot; alt=&quot;示例&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;jekyll-rubyjekyllruby&quot;&gt;3.之后我们就要在本地部署jekyll， 首先你需要ruby来使用本地jekyll。安装ruby。&lt;/h3&gt;
+&lt;h3 id=&quot;jekyll-rubyjekyll&quot;&gt;3.之后我们就要在本地部署jekyll， 首先你需要安装ruby来使用本地jekyll。&lt;/h3&gt;
 &lt;p&gt;可以直接使用两个命令完成Ruby的安装。&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -281,23 +281,6 @@ php7.0-enchant    php7.0-mcrypt     php7.0-soap
 				<pubDate>Thu, 03 Nov 2016 00:00:00 +0800</pubDate>
 				<link>/2016/11/03/build_LNMP/</link>
 				<guid isPermaLink="true">/2016/11/03/build_LNMP/</guid>
-			</item>
-		
-			<item>
-				<title>Whats Jekyll?</title>
-        <description>&lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.&lt;/p&gt;
-
-&lt;p&gt;From &lt;a href=&quot;https://github.com/jekyll/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;It’s an immensely useful tool. Find out more by &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
-</description>
-				<pubDate>Tue, 01 Nov 2016 00:00:00 +0800</pubDate>
-				<link>/2016/11/01/whats-jekyll/</link>
-				<guid isPermaLink="true">/2016/11/01/whats-jekyll/</guid>
 			</item>
 		
 	</channel>
