@@ -27,7 +27,7 @@ nav:
   - name:           "博客"
     href:           "/about"
   - name:           "简历"
-    href:           "/resume.html"
+    href:           "/resume"
 
 sass:
   style:            :compressed
