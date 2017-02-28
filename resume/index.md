@@ -16,7 +16,7 @@ author:       "Dong"
 #个人信息
 
 *   大专/广东轻工职业技术学院-计算机系
-*   工作年限：半年
+*   工作年限：1年
 *   个人博客：http://DongJianWei24.github.io
 *   Github：http://github.com/DongJianWei24
 
@@ -26,7 +26,7 @@ author:       "Dong"
 
 #工作经历
 
-##广东远景信息科技有限公司 （ 2016年3月 ~ 2016年5月 ）
+##广东远景信息科技有限公司 （ 2015年12月 ~ 2016年5月 ）
 
 ###OA项目
 
@@ -43,6 +43,8 @@ author:       "Dong"
 *   搭建github个人博客
 *   搭建LNMP开发环境
 *   安装phpstorm编辑器
+*   安装微信客户端
+*   比较nginx和apache的优缺点
 
 #技能清单
 
