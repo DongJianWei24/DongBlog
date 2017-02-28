@@ -56,7 +56,7 @@ author:       "Dong"
 
 在浏览器输入地址:localhost:4000,就可以看到效果
 
-在这里推荐一个快速入门学习markdown语法的[网址](http://www.ituring.com.cn/article/23)
+在这里推荐一个快速入门学习markdown语法的*[网址](http://www.ituring.com.cn/article/23)*
 
 ###5.上传到github仓库
 >git add .  
